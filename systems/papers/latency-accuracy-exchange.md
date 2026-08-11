@@ -1,5 +1,5 @@
 # The Latency–Accuracy Exchange Principle: A Framework for Correctness-Oriented Software Development
-William Murray
+William Murray  
 16 February 2026
 
 ## Abstract
