@@ -7,25 +7,26 @@ A research-grade repository maintaining the formal mathematical foundations and 
 ## Repository Structure
 
 ```text
-foundations/
-├── math/
-│   └── curricula/             # Structured mathematical research paths & curricula
-├── systems/
+foundations/  
+├── math/  
+│   └── curricula/             # Structured mathematical research paths & curricula  
+├── systems/  
 │   └── manifestos/            # Core systems engineering monographs & manifestos
-│       ├── constraint-driven-design.md
-│       ├── latency-accuracy-exchange.md
-│       └── governed-computational-ecosystems.md
-├── CHANGELOG.md
-├── LICENSE
-└── README.md
+│       ├── ai-intensifies-responsibility.md  
+│       ├── constraint-driven-design.md  
+│       ├── latency-accuracy-exchange.md  
+│       └── governed-computational-ecosystems.md  
+├── CHANGELOG.md  
+├── LICENSE  
+└── README.md  
 
 ```
 
 ---
 
-## Pillars of Research
+## Pillars of Research  
 
-### 1. Mathematics (`/math`)
+### 1. Mathematics (`/math`)  
 
 Integrates dynamical systems, symplectic geometry, symbolic dynamics, domain theory, and transfinite topology into a unified operator framework accompanying the Unified Operator Architecture (UOA) corpus.
 
@@ -35,7 +36,7 @@ Integrates dynamical systems, symplectic geometry, symbolic dynamics, domain the
 * **Domain Theory:** Directed complete partial orders (DCPOs), embedding-projection pairs (EP-pairs), and ultrametric spaces.
 * **Transfinite Topology:** Ordinal towers, ultrametric constructions, and operator hierarchies.
 
-### 2. Systems Architecture (`/systems`)
+### 2. Systems Architecture (`/systems`)  
 
 Codifies a first-principles architectural doctrine for low-overhead runtime environments, correctness-oriented execution, and self-regulating socio-technical computational systems.
 
@@ -45,18 +46,18 @@ Codifies a first-principles architectural doctrine for low-overhead runtime envi
 
 ---
 
-## Canonical Reading Order
-
 ### Systems Monograph Sequence
 
-1. **Constraint-Driven Software Design in an Era of Computational Abundance**
-*Focus: Bounding memory, dependencies, and spatial footprint.*
-2. **The Latency–Accuracy Exchange Principle**
-*Focus: Bounding execution, temporal policies, and correctness guarantees.*
-3. **Governed Computational Ecosystems: A Systems-Theoretic and Architectural Monograph**
-*Focus: Integrating structural invariants, provenance, and long-arc alignment across hybrid systems.*
+1. **Constraint-Driven Software Design in an Era of Computational Abundance**  
+   *Focus: Bounding memory, dependencies, and spatial footprint.*
+2. **Artificial Intelligence Intensifies Responsibility**  
+   *Focus: Legal doctrine, duty of care, and governance frameworks for AI-generated software.*
+3. **The Latency–Accuracy Exchange Principle**  
+   *Focus: Bounding execution, temporal policies, and correctness guarantees.*
+4. **Governed Computational Ecosystems: A Systems-Theoretic and Architectural Monograph**  
+   *Focus: Integrating structural invariants, provenance, and long-arc alignment across hybrid systems.*
 
-### Mathematical Corpus Sequence
+### Mathematical Corpus Sequence  
 
 1. **Universal Normal Form Theorem:** A1–A5 normal forms and Kuramoto couplings.
 2. **Tiered Emergence:** Center manifolds, symplectic reduction, and Lemma 6.1.
