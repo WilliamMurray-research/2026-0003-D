@@ -75,7 +75,7 @@ Integrates dynamical systems, symplectic geometry, symbolic dynamics, domain the
 
 ### /ai-bio/
 
-#### [AI‑Driven De Novo Design of Functional Bacteriophage Genomes: Integrating Genome Language Models with Synthetic Genomics and Wetlab Validation](https://github.com/WilliamMurray-research/foundations/blob/main/ai-bio/phage_genome.md) 
+#### [AI‑Driven De Novo Design of Functional Bacteriophage Genomes: Integrating Genome Language Models with Synthetic Genomics and Wetlab Validation](https://github.com/WilliamMurray-research/foundations/blob/main/ai_bio/phage_genome_design.md) 
 
 8 August 2026
 
@@ -172,7 +172,7 @@ This paper argues that Large Language Models (LLMs) are the most complete realis
 
 ### /systems/epistemics/
 
-#### [The Craft of Structured Intelligence: How Context Engineering and Iterative Shaping Form a Unified Theory of Human–AI Reasoning](https://github.com/WilliamMurray-research/foundations/blob/main/systems/epistemics/craft_of_structured_intelligence.md) 
+#### [The Craft of Structured Intelligence: How Context Engineering and Iterative Shaping Form a Unified Theory of Human–AI Reasoning](https://github.com/WilliamMurray-research/foundations/blob/main/systems/epistemics/structured_intelligence.md) 
 
 9 August 2026
 
@@ -198,7 +198,7 @@ This document outlines a principled framework for web design that reduces cognit
 
 ### /systems/manifestos/
 
-#### [Constraint‑Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting](https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/constraint-driven-design.md) 
+#### [Constraint‑Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting](https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/constraint_driven_design.md) 
 
 11 August 2026
 
@@ -208,7 +208,7 @@ Author’s note: This is a sketch of my thinking at this time; I expect to retur
 
 ---
 
-#### [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software]( https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/ai-intensifies-responsibility.md)
+#### [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software]( https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/ai_intensifies_responsibility.md)
 
 10 August 2026
 
@@ -224,7 +224,7 @@ This whitepaper argues that risk must be treated as a first‑class entity in th
 
 ---
 
-#### [The Latency–Accuracy Exchange Principle: A Framework for Correctness-Oriented Software Development](https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/latency-accuracy-exchange.md) 
+#### [The Latency–Accuracy Exchange Principle: A Framework for Correctness-Oriented Software Development](https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/latency_accuracy_exchange.md) 
 
 16 February 2026
 
@@ -232,7 +232,7 @@ This paper introduces the latency–accuracy exchange principle: the idea that t
 
 ---
 
-## Custodial & Governance Principles
+### Custodial & Governance Principles
 
 This repository operates under a custodial stewardship model. Contributions and integrations must strictly respect the structural invariants, version provenance, and long-arc alignment defined within the systems manifestos. External social metrics are decoupled from internal architectural governance.
 
