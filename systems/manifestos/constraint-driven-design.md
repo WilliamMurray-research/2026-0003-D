@@ -1,6 +1,6 @@
 # Constraint-Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting  
-William Murray
-11 August 2026
+William Murray  
+11 August 2026  
 
 Version 0.1
 
