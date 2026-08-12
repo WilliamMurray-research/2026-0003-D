@@ -1,8 +1,7 @@
 # Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software.
 
-William Murray
-
-10 August 2026
+William Murray  
+10 August 2026  
 
 ---
 
