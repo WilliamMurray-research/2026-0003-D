@@ -1,0 +1,43 @@
+# Prototyping as an Epistemic Taxonomy in Software Systems
+**William Murray**
+Jul 26, 2026
+
+Prototyping in software engineering is frequently treated as a monolithic practice—a general technique for constructing preliminary systems to observe their behaviour. This flattening obscures the fact that prototyping encompasses multiple epistemic modes, each producing distinct forms of knowledge and serving different methodological purposes. A clearer taxonomy enables more deliberate selection of prototyping strategies and more precise reasoning about their outcomes.
+
+Three primary epistemic modes can be identified:
+
+*   **Abductive prototyping** - exploratory construction generates the conjecture
+*   **Inductive prototyping** - empirical interaction reveals structural regularities
+*   **Deductive prototyping** - formal reasoning constrains the mechanism prior to implementation
+
+This paper focuses on the **deductive mode**. While not universally applicable, it is particularly well‑suited to software domains where formal structure, computational limits, and algorithmic constraints are available and can be leveraged to reduce uncertainty before implementation.
+
+## The Deductive Pipeline
+
+Deductive prototyping proceeds through a structured sequence designed to minimise epistemic ambiguity:
+
+1.  **Conjecture** - a crisp, falsifiable claim about system behaviour
+2.  **Hypothesis** - a formalised, testable representation of the conjecture
+3.  **Constraint model** - selection of the strongest available constraint:
+    *   **mathematical**, when the domain admits formal specification
+    *   **empirical**, when behaviour cannot be fully formalised
+    *   **algorithmic**, when computational limits (e.g., complexity bounds, resource ceilings, decidability constraints) determine feasibility
+4.  **Algorithm or mechanism** - operationalisation of the constrained hypothesis
+5.  **Minimal viable prototype** - instantiation for empirical validation
+
+The selection principle for constraint models is straightforward: choose the constraint that eliminates the largest class of potential errors prior to implementation. In software, mathematical and algorithmic constraints frequently dominate; in other domains, empirical constraints may be primary. The objective is methodological precision rather than adherence to any single epistemic ideal.
+
+## Why Deductive Prototyping Matters
+
+Deductive prototyping yields a distinct class of epistemic outcomes. Its advantages can be articulated in three dimensions:
+
+*   **Early structural error detection** - Formal and algorithmic constraints expose category‑level flaws (e.g., undecidability, intractable complexity, structural impossibility) before implementation. This prevents substantial downstream expenditure on prototypes that are non‑viable in principle.
+*   **Boundary testing between theory and execution** - Deductive prototypes evaluate whether formally reasoned mechanisms withstand real‑world constraints. They test the fidelity of theoretical models under practical conditions, rather than serving as exploratory searches for the underlying idea.
+*   **High‑leverage refinement** - Because deductive prototypes instantiate constrained mechanisms, refinements tend to be structural rather than local. Improvements propagate through the system architecture, producing more coherent designs and reducing the accumulation of ad hoc patches.
+
+These advantages do not imply superiority across all contexts. Instead, they indicate that deductive prototyping provides high‑leverage epistemic value in domains where formal constraints are accessible, which includes a substantial portion of software engineering.
+
+## Conclusion
+
+Deductive prototyping constitutes one rigorous mode within a broader epistemic taxonomy. In software systems, where formal and algorithmic constraints are often available, it offers an underutilised and methodologically powerful approach for producing prototypes grounded in structured reasoning rather than unguided exploration.
+
