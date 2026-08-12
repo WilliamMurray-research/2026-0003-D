@@ -22,6 +22,7 @@ foundations/
 ├── systems/
 │   ├── architectures/
 │   │   ├── architecture-of-plausibility.md
+│   │   ├── honest_machine.md
 │   │   ├── beyond-classical-paradigms.md
 │   │   ├── dual-layer-dsls.md
 │   │   ├── linguistic-cortex-agi.md
