@@ -1,7 +1,7 @@
 # The Cognitive Burden of Object-Oriented Programming: A Critical Analysis of Encapsulation, Abstraction, and the Failure of Modular Coherence
 
-**William Murray**
-**29 August 2025**
+William Murray  
+29 August 2025
 
 ---
 
