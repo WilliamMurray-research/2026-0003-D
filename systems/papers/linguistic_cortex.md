@@ -1,58 +1,57 @@
 # Beyond the Linguistic Cortex
 **A Modular, Brain-Aligned Architecture for Artificial General Intelligence**
 
-**William Murray**
-April 2026
+William Murray  
+2 April 2026
 
 ---
 
-## Table of Contents
-1. Introduction
-2. The Limits of Monolithic Language Models
-    2.1 The Stochastic Parrot Problem
-    2.2 The Grounding Problem
-    2.3 The Memory and Planning Deficit
-    2.4 The Scaling Hypothesis and Its Limits
-3. Biological Precedents for Modular Cognition
-    3.1 The Brain as a System of Systems
-    3.2 The Linguistic Cortex in Biological Context
-    3.3 World Models and Predictive Processing
-    3.4 Memory, Reward, and Planning in the Biological Brain
-4. The Proposed Architecture: A Modular AGI Framework
-    4.1 Overview
-    4.2 The Language Module
-    4.3 The World Model Module
-    4.4 The Memory Module
-    4.5 The Planning and Reward Modules
-    4.6 Perception and Action Modules
-5. The Digital Corpus Callosum: Integration and Coherence
-    5.1 The Biological Precedent
-    5.2 The Digital Corpus Callosum as Integration Fabric
-    5.3 Architectural Implementation
-6. The Minimal Viable AGI: Implementation Pathway
-    6.1 Defining the Minimal Configuration
-    6.2 Justification for the Minimal Set
-    6.3 Scaling Beyond the MVAGI
-7. Meta-Cognition, Homeostasis, and Developmental Engines
-    7.1 Meta-Cognition: Thinking About Thinking
-    7.2 Homeostatic Regulation: Stability Through Self-Regulation
-    7.3 Developmental Engines: Growing Intelligence Over Time
-8. Implications, Limitations, and Future Directions
-    8.1 Implications for AGI Research
-    8.2 Comparison with Existing Proposals
-    8.3 Limitations and Open Questions
-    8.4 Future Directions
-9. Conclusion
+## Table of Contents  
+1. Introduction  
+2. The Limits of Monolithic Language Models  
+    2.1 The Stochastic Parrot Problem  
+    2.2 The Grounding Problem  
+    2.3 The Memory and Planning Deficit  
+    2.4 The Scaling Hypothesis and Its Limits  
+3. Biological Precedents for Modular Cognition  
+    3.1 The Brain as a System of Systems  
+    3.2 The Linguistic Cortex in Biological Context 
+    3.3 World Models and Predictive Processing  
+    3.4 Memory, Reward, and Planning in the Biological Brain  
+4. The Proposed Architecture: A Modular AGI Framework  
+    4.1 Overview  
+    4.2 The Language Module  
+    4.3 The World Model Module  
+    4.4 The Memory Module  
+    4.5 The Planning and Reward Modules  
+    4.6 Perception and Action Modules  
+5. The Digital Corpus Callosum: Integration and Coherence  
+    5.1 The Biological Precedent  
+    5.2 The Digital Corpus Callosum as Integration Fabric  
+    5.3 Architectural Implementation  
+6. The Minimal Viable AGI: Implementation Pathway  
+    6.1 Defining the Minimal Configuration  
+    6.2 Justification for the Minimal Set  
+    6.3 Scaling Beyond the MVAGI  
+7. Meta-Cognition, Homeostasis, and Developmental Engines  
+    7.1 Meta-Cognition: Thinking About Thinking  
+    7.2 Homeostatic Regulation: Stability Through Self-Regulation  
+    7.3 Developmental Engines: Growing Intelligence Over Time  
+8. Implications, Limitations, and Future Directions  
+    8.1 Implications for AGI Research  
+    8.2 Comparison with Existing Proposals  
+    8.3 Limitations and Open Questions  
+    8.4 Future Directions  
+9. Conclusion  
 
 ---
 
-## Abstract
+## Abstract  
 Large Language Models (LLMs) represent a remarkable advance in artificial intelligence, yet they remain fundamentally constrained as candidates for Artificial General Intelligence (AGI). This essay argues that LLMs function as analogues of the brain's linguistic cortex – a powerful interface for symbolic compression and communication – rather than as complete cognitive systems. Drawing on evidence from neuroscience, cognitive science, and contemporary machine learning research, the essay proposes a modular AGI architecture that mirrors the structural, functional, and developmental organisation of biological intelligence. The architecture comprises specialised modules for world-modelling, memory, planning, reward, perception, action, meta-cognition, homeostasis, and developmental scaffolding. Central to the proposal is the Digital Corpus Callosum: a high-bandwidth, bidirectional integration fabric that aligns symbolic and sub-symbolic representations, synchronises module states, resolves conflicts, and enforces global coherence. The essay introduces the concept of a Minimal Viable AGI – an implementation pathway that prioritises the smallest subset of modules sufficient to demonstrate integrated general intelligence – and situates this proposal within the broader landscape of AGI research.
 
 ---
 
-## 1. Introduction
-
+## 1. Introduction  
 The rapid scaling of Large Language Models over the past half-decade has generated extraordinary excitement – and extraordinary confusion – regarding the proximity of Artificial General Intelligence. [1] Systems such as GPT-4, PaLM, and their successors demonstrate fluency in natural language, competence in code generation, and surprisingly strong performance on standardised reasoning benchmarks. [2] These achievements have led some commentators to speculate that scaling transformer architectures further may be sufficient to produce general intelligence. [3]
 
 Such speculation, however, conflates linguistic competence with cognition itself. Biological intelligence offers a compelling counterexample to the monolithic approach. The human brain does not consist of a single, undifferentiated network; it comprises dozens of specialised subsystems – for perception, memory, planning, reward evaluation, motor control, and language – integrated through dense white-matter tracts and neuromodulatory circuits. [4]
@@ -71,25 +70,25 @@ The essay proceeds as follows:
 *   Section 8 discusses implications, limitations, and directions for future research; and
 *   Section 9 concludes with a synthesis of the central argument.
 
-## 2. The Limits of Monolithic Language Models
+## 2. The Limits of Monolithic Language Models  
 
-### 2.1 The Stochastic Parrot Problem
-
+### 2.1 The Stochastic Parrot Problem  
+  
 Bender, Gebru, McMillan-Major, and Shmitchell characterise large language models as “stochastic parrots” – systems that produce statistically plausible sequences of tokens without genuine understanding of the concepts those tokens represent. [1] This critique, while sometimes overstated, identifies a genuine architectural constraint. LLMs acquire distributional patterns from text corpora; they do not construct causal models of the world, form persistent memories of past interactions, or pursue goals through deliberate planning. The appearance of understanding emerges from interpolation over vast training distributions rather than from structured reasoning processes. [7]
 
 Marcus and Davis extend this critique by documenting systematic failures of LLMs on tasks requiring compositional generalisation, physical reasoning, and logical consistency. [8] When presented with novel combinations of familiar concepts – a hallmark of human cognitive flexibility – LLMs frequently produce confident but erroneous outputs. These failures are not merely performance gaps addressable through additional training data; they reflect the absence of architectural mechanisms for grounding, abstraction, and systematic recombination. The monolithic transformer, for all its power, lacks the structural prerequisites for robust general reasoning.
 
-### 2.2 The Grounding Problem
+### 2.2 The Grounding Problem  
 
 A particularly consequential limitation concerns perceptual grounding. Human cognition develops through embodied interaction with the physical world; concepts such as “weight,” “distance,” and “fragility” derive their meaning from sensorimotor experience rather than from co-occurrence statistics in text. [9] LLMs, trained exclusively on linguistic data, acquire only the statistical shadow of these concepts – what Harnad terms “parasitic” semantics, inherited from the grounded experiences of the humans who produced the training text. [10]
 
 This absence of grounding manifests in characteristic failure modes: physically implausible spatial reasoning, inability to simulate dynamic processes, and susceptibility to adversarial prompts that exploit the gap between linguistic plausibility and physical reality.
 
-### 2.3 The Memory and Planning Deficit
+### 2.3 The Memory and Planning Deficit  
 
 Monolithic LLMs operate within a fixed context window – a transient buffer that is erased between interactions and constrained in capacity. [11] They possess no mechanism for persistent episodic memory (the capacity to recall specific past events), no structured semantic knowledge base that updates incrementally, and no procedural memory for acquired skills. Planning presents an equally fundamental challenge. While LLMs can generate text that describes plans, they lack the capacity to evaluate those plans against a world model, simulate their consequences, revise them in response to feedback, or maintain goal states across extended time horizons. [12] These are not peripheral features of intelligence; they are constitutive of it.
 
-### 2.4 The Scaling Hypothesis and Its Limits
+### 2.4 The Scaling Hypothesis and Its Limits  
 
 Proponents of the scaling hypothesis argue that continued increases in model size, training data, and compute will eventually produce emergent general intelligence. [3] While scaling has indeed yielded impressive capability gains, the evidence suggests diminishing returns on benchmarks that probe genuine reasoning rather than pattern matching. [13]
 
@@ -97,9 +96,9 @@ Chollet's Abstraction and Reasoning Corpus (ARC) – designed to test fluid inte
 
 Furthermore, recent analyses of so-called “emergent abilities” in large language models suggest that many apparent capability jumps may be artefacts of evaluation methodology rather than genuine phase transitions in cognitive capacity. [13] When evaluation metrics are adjusted to use continuous rather than discrete scoring, the sharp transitions dissolve into smooth, predictable scaling curves. This finding undermines the strongest version of the scaling hypothesis – the claim that qualitatively new cognitive capabilities spontaneously emerge at sufficient scale. Scaling a linguistic cortex, however large, does not produce a complete mind; it produces a larger linguistic cortex. The path to AGI requires architectural innovation, not merely parametric expansion.
 
-## 3. Biological Precedents for Modular Cognition
+## 3. Biological Precedents for Modular Cognition  
 
-### 3.1 The Brain as a System of Systems
+### 3.1 The Brain as a System of Systems  
 
 Neuroscience has long recognised that the brain comprises functionally specialised subsystems rather than a homogeneous processing substrate. [4] Fodor's influential modularity thesis proposed that input systems – perception and language – operate as informationally encapsulated, domain-specific modules with dedicated neural hardware. [15] While subsequent research has demonstrated greater interaction between modules than Fodor's strict encapsulation allows, the fundamental principle of functional specialisation remains robust. Visual processing, auditory processing, spatial navigation, language production, motor planning, and reward evaluation each depend on distinct neural circuits with characteristic computational properties. Dehaene and colleagues elaborate this principle through Global Workspace Theory, which posits that specialised processors operate in parallel and compete for access to a shared “global workspace” – a distributed neural network (centred on prefrontal and parietal cortices) that broadcasts selected information to all modules simultaneously. [17] This architecture enables flexible, context-dependent integration of specialised computations without requiring each module to communicate directly with every other. The global workspace serves as an integration and arbitration layer, not as the locus of cognition itself. This distinction – between the integration fabric and the specialised processors it connects – provides a crucial insight for AGI architecture design.
 
