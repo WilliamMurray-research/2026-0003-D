@@ -1,0 +1,109 @@
+# Beyond Classical Paradigms: Post‑Anthropocentric Frameworks for Contemporary Artificial Intelligence
+
+## **Abstract**
+
+Classical definitions of artificial intelligence have relied on anthropocentric assumptions that position human cognition and behaviour as the normative benchmark for machine intelligence. These paradigms, while historically influential, increasingly fail to address the complexity, contextual variability, and value pluralism that characterise contemporary AI deployment. This paper critically examines the epistemological and ethical limitations of classical frameworks and argues that post‑anthropocentric approaches provide more robust foundations for the design, governance, and evaluation of modern AI systems. Drawing on ecological, relational, constraint‑based, and enactive models of intelligence, the analysis demonstrates that these frameworks better accommodate bounded rationality, socio‑technical entanglement, and adaptive behaviour. The paper concludes by outlining strategic implications for governance, ethical auditing, and human–machine co‑adaptation.
+
+---
+
+# **1. Introduction**
+
+Artificial intelligence has traditionally been conceptualised through frameworks that treat human cognition as the definitive model of intelligent behaviour. The quadripartite schema of thinking humanly, acting humanly, thinking rationally, and acting rationally has shaped both theoretical discourse and practical system design. However, this schema reflects a reductive understanding of intelligence that does not account for the diversity of adaptive behaviours observed across biological and social systems. As noted in the literature, human cognition is neither universally optimal nor representative of the full spectrum of intelligent processes found in nature [1].
+
+This paper argues that the limitations of classical paradigms necessitate a transition towards post‑anthropocentric frameworks. These frameworks reconceptualise intelligence as relational, ecological, and contextually embedded. The analysis proceeds in three stages. First, it examines the anthropocentric foundations of classical AI and identifies their conceptual and ethical limitations. Second, it evaluates alternative frameworks that emphasise systemic adaptation, relational alignment, bounded rationality, and enactive intelligence. Third, it considers the strategic implications of these frameworks for governance, ethical auditing, and human–machine collaboration.
+
+---
+
+# **2. The Anthropocentric Foundations of Classical AI**
+
+## **2.1 Cognitive Modelling and the Human Mimicry Paradigm**
+
+Cognitive modelling seeks to replicate human thought processes through introspection, psychological experimentation, and neurobiological analysis. This approach assumes that human cognition represents the optimal or most desirable form of intelligence. However, research in comparative cognition demonstrates that diverse species exhibit forms of intelligence that are highly effective within their ecological niches [2]. Swarm intelligence in social insects, distributed coordination in bacterial colonies, and the navigational capacities of migratory species illustrate that intelligence is not monolithic.
+
+Furthermore, human cognition is characterised by systematic biases, heuristics, and context‑dependent reasoning patterns that undermine assumptions of rationality [3]. Embedding these limitations into artificial systems risks constraining their performance and reliability. The cognitive modelling paradigm therefore narrows the design space and restricts the development of alternative architectures that may be better suited to specific tasks.
+
+## **2.2 The Turing Test and the Deception Paradigm**
+
+The Turing Test operationalises intelligence as the capacity to imitate human conversational behaviour. This criterion embeds a deception‑based model of intelligence, as success depends on convincing a human interrogator of one’s humanity [4]. Such an approach privileges surface‑level mimicry rather than substantive cognitive capability.
+
+The emphasis on human‑likeness reinforces anthropocentric assumptions and undervalues non‑human forms of intelligence. It also encourages the development of systems optimised for linguistic plausibility rather than accuracy, reasoning, or ethical behaviour. Recent developments in large language models illustrate this tension, as systems capable of fluent text generation may nonetheless exhibit limited understanding or unreliable reasoning [5].
+
+## **2.3 Rational Agency and the Myth of Objective Optimisation**
+
+The rational agent model defines intelligence as the capacity to achieve goals optimally. Although this framework appears objective, it relies on assumptions that rarely hold in real‑world contexts. These include stable preferences, well‑defined utility functions, and consensus regarding what constitutes optimal behaviour [6].
+
+In pluralistic societies, values are contested, and stakeholders often hold divergent or incompatible objectives. Moreover, real‑world decision‑making involves uncertainty, incomplete information, and shifting priorities. As Simon argues, intelligent agents must operate under conditions of bounded rationality, relying on heuristics and satisficing strategies rather than optimisation [7]. Classical rationality therefore provides an inadequate foundation for understanding or designing intelligent systems.
+
+---
+
+# **3. Towards Post‑Anthropocentric AI**
+
+## **3.1 Systemic Adaptation and Ecological Intelligence**
+
+Ecological intelligence conceptualises intelligence as an emergent property of interactions between agents and their environments. Drawing on systems theory and cybernetics, this framework emphasises adaptability, resilience, and co‑evolution [8]. Intelligent behaviour is understood as the capacity to maintain functionality across varying conditions while preserving core operational characteristics.
+
+This perspective encourages the development of AI systems that can adjust to novel or unpredictable environments without extensive retraining. It also supports architectures that evolve alongside human users and other systems, reducing the risk of misalignment and enhancing collaborative performance.
+
+## **3.2 Relational Alignment and Value Pluralism**
+
+Relational alignment rejects the assumption that values are universal, static, or easily codified. Instead, it treats values as socially constructed, contextually dependent, and subject to negotiation among diverse stakeholders [9]. AI systems designed under this framework must be capable of learning values through interaction, engaging with stakeholders, and adapting to evolving social contexts.
+
+This approach requires sophisticated capabilities for ethical reasoning, dialogue, and conflict resolution. It also necessitates institutional mechanisms that support participatory governance and ongoing stakeholder engagement.
+
+## **3.3 Constraint‑Based Reasoning and Bounded Rationality**
+
+Constraint‑based reasoning incorporates the realities of bounded rationality into system design. Rather than assuming perfect information or unlimited computational resources, this framework acknowledges that intelligent agents must make decisions under conditions of uncertainty and constraint [10].
+
+By foregrounding heuristics, satisficing strategies, and explicit constraints, this approach enhances explainability and supports more realistic models of decision‑making. It also aligns AI behaviour with the operational conditions encountered in real‑world environments.
+
+## **3.4 Responsive Action and Enactive Intelligence**
+
+Enactive intelligence conceptualises cognition as emerging from continuous interaction between agents and their environments. It rejects the separation of perception, cognition, and action, emphasising embodiment, environmental coupling, and adaptive behaviour [11].
+
+This framework supports the development of AI systems capable of dynamic, context‑sensitive responses. It also highlights the importance of designing systems that can engage meaningfully with their physical and social environments.
+
+---
+
+# **4. Strategic Implications**
+
+## **4.1 Governance and Risk Management**
+
+Post‑anthropocentric AI requires governance frameworks that are adaptive, participatory, and responsive to evolving system behaviour. Traditional rule‑based regulatory models are insufficient for systems that learn, adapt, and exhibit emergent properties [12]. Effective governance must incorporate continuous monitoring, stakeholder engagement, and mechanisms for adjusting oversight as systems evolve.
+
+## **4.2 Ethical Auditing and Accountability**
+
+Ethical auditing must move beyond compliance‑based approaches to evaluate the dynamic and context‑sensitive behaviour of adaptive systems. This includes assessing the quality of stakeholder engagement, the functioning of value‑learning mechanisms, and longitudinal patterns of system behaviour [13]. Participatory auditing processes and transparent reporting frameworks are essential for maintaining accountability.
+
+## **4.3 Human–Machine Co‑Adaptation and Collaborative Intelligence**
+
+Post‑anthropocentric frameworks support richer forms of human–machine collaboration. Effective co‑adaptation requires systems that can interpret human intentions, adjust to user preferences, and communicate their reasoning processes clearly [14]. This enhances collaborative performance and supports the development of systems that augment rather than replace human capabilities.
+
+---
+
+# **5. Conclusion**
+
+Classical anthropocentric paradigms are increasingly inadequate for understanding or designing contemporary AI systems. Their assumptions regarding human cognition, rationality, and universality constrain innovation and limit the ethical robustness of deployed systems. Post‑anthropocentric frameworks grounded in ecological, relational, constraint‑based, and enactive models of intelligence provide more realistic and ethically grounded foundations.
+
+These frameworks support systems capable of operating under uncertainty, engaging with diverse stakeholders, and adapting to dynamic environments. They also necessitate new approaches to governance, auditing, and human–machine collaboration. The transition to post‑anthropocentric AI is essential for developing systems that support equitable, sustainable, and ethically responsible technological futures.
+
+---
+
+# **Endnotes**
+
+[1] Russell and Norvig, *Artificial Intelligence: A Modern Approach* (2020).  
+[2] Shettleworth, *Cognition, Evolution, and Behavior* (2010).  
+[3] Kahneman, *Thinking, Fast and Slow* (2011).  
+[4] Turing, “Computing Machinery and Intelligence” (1950).  
+[5] Marcus, “The Next Decade in AI” (2020).  
+[6] Sen, *The Idea of Justice* (2009).  
+[7] Simon, *The Sciences of the Artificial* (1996).  
+[8] Bateson, *Steps to an Ecology of Mind* (2000).  
+[9] Gabriel, “Artificial Intelligence, Values, and Alignment” (2020).  
+[10] Gigerenzer and Selten, *Bounded Rationality* (2001).  
+[11] Di Paolo, Buhrmann and Barandiaran, *Sensorimotor Life* (2017).  
+[12] Cath, “Governing Artificial Intelligence” (2018).  
+[13] Winfield and Jirotka, “Ethical Governance is Essential to Building Trust” (2018).  
+[14] Hollan, Hutchins and Kirsh, “Distributed Cognition” (2000).
+
+---
+
