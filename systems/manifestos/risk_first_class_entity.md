@@ -1,7 +1,7 @@
-# Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems
+# Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems  
 
-**William Murray**
-Jul 26, 2026
+William Murray  
+Jul 26, 2026  
 
 ***
 
