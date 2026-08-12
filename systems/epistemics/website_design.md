@@ -1,7 +1,7 @@
 # Website Design: Minimising Cognitive Load and Maximising Dominant Schemas and Master Narratives
 
-**William Murray**
-Sep 20, 2025
+William Murray  
+20 September 2025  
 
 ---
 
