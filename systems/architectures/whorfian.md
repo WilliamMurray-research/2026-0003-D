@@ -1,16 +1,9 @@
-# The Whorfian Agent
+# The Whorfian Agent: How LLMs Embody Linguistic Relativity Without Embodiment
 
-**How LLMs Embody Linguistic Relativity Without Embodiment**
+William Murray  
+5 July 2025  
 
-**William Murray**
-
-*5 July 2025*
-
-***
-
-## Language as Cognition: A Comprehensive Analysis
-
-***
+---
 
 ### Abstract
 
