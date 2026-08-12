@@ -1,8 +1,8 @@
 # **Governed Computational Ecosystems: A Systems‑Theoretic and Architectural Monograph**
 
-**Author:** William Murray  
-**Version:** v0.1.0  
-**Date:** 6 August 2026  
+William Murray  
+v0.1.0  
+6 August 2026  
   
 
 ---
