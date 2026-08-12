@@ -1,5 +1,7 @@
 # **The First Honest Machine**
 
+William Murray
+
 ## **Introduction**
 
 The rapid expansion of artificial intelligence has produced systems of unprecedented capability, yet these systems remain fundamentally unaccountable. Contemporary models generate fluent output, but they do so through opaque internal processes that resist scrutiny. The resulting gap between performance and explainability has created a structural vulnerability in every domain that relies upon machine reasoning. This essay argues that the central challenge for the next generation of artificial intelligence is not the pursuit of greater capability, but the construction of the first system that can be described as *honest*. The term "honesty" is used here in a technical sense, referring to a system whose internal operations are transparent, governed, and resistant to epistemic drift. The argument proceeds by examining the nature of drift, outlining the architectural requirements for honesty, and situating these requirements within a broader governance framework.
