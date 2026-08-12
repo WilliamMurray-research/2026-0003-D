@@ -8,40 +8,39 @@ A repository maintaining the formal mathematical foundations and systems-theoret
 
 ```text
 foundations/
-├── math/
-│   └── curricula/                     # Mathematical research paths
 ├── ai-bio/
-│   └── phage-genome-design.md
+│   └── phage_genome_design.md
 ├── ecology/
 │   └── restoration-ml/
-│       └── reclaiming-the-scar.md
+│       └── reclaiming_the_scar.md
+├── math/
+│   └── curricula/                         # Mathematical research paths
 ├── programming/
-│   ├── cobol-epistemic-drift.md
-│   ├── cognitive-burden-oop.md
-│   └── cognitive-minimalism.md
+│   ├── COBOL.md
+│   ├── cognitive_burden_OOP.md
+│   └── cognitive_minimalism_programming.md
 ├── systems/
 │   ├── architectures/
-│   │   ├── architecture-of-plausibility.md
+│   │   ├── architecture_plausibility.md
+│   │   ├── beyond_classical_paradigms.md
 │   │   ├── honest_machine.md
-│   │   ├── beyond-classical-paradigms.md
-│   │   ├── dual-layer-dsls.md
-│   │   ├── linguistic-cortex-agi.md
-│   │   ├── two-tier-emergence.md
-│   │   └── whorfian-agent.md
+│   │   ├── languages_of_structure.md
+│   │   ├── linguistic_cortex.md
+│   │   ├── two_tier.md
+│   │   └── whorfian.md
 │   ├── epistemics/
-│   │   ├── prototyping-taxonomy.md
-│   │   ├── structured-intelligence.md
-│   │   └── website-design.md
+│   │   ├── craft_of_structured_intelligence.md
+│   │   ├── prototyping_taxonomy.md
+│   │   └── website_design.md
 │   └── manifestos/
-│       ├── ai-intensifies-responsibility.md
-│       ├── constraint-driven-design.md
-│       ├── governed-computational-ecosystems.md
-│       ├── latency-accuracy-exchange.md
-│       └── risk-as-first-class.md
+│       ├── ai_intensifies_responsibility.md
+│       ├── constraint_driven_design.md
+│       ├── governed_computational_ecosystems.md
+│       ├── latency_accuracy_exchange.md
+│       └── risk_first_class_entity.md
 ├── CHANGELOG.md
 ├── LICENSE
 └── README.md
- 
 
 ```
 
