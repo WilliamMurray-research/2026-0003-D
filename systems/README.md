@@ -100,7 +100,7 @@ This document outlines a principled framework for web design that reduces cognit
 
 ---
 
-## COBOL as Institutional Artifact: Epistemic Drift and the Paradox of Robust Neglect in Legacy Computing Infrastructure 
+## [COBOL as Institutional Artifact: Epistemic Drift and the Paradox of Robust Neglect in Legacy Computing Infrastructure](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/COBOL.md) 
 
 2 September 2025
 
