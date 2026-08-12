@@ -1,7 +1,7 @@
 # Languages of Structure: A Dual‑Layer Architecture for Symbolic and Governance Domain‑Specific Languages
 
-**William Murray**
-**9 August 2026**
+William Murray  
+9 August 2026  
 
 ---
 
