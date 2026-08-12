@@ -2,7 +2,7 @@
 
 ---
 
-## [Constraint‑Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/constraint-driven-design.md) 
+## [Constraint‑Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting](https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/constraint-driven-design.md) 
 
 11 August 2026
 
@@ -12,7 +12,7 @@ Author’s note: This is a sketch of my thinking at this time; I expect to retur
 
 ---
 
-## [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software]( https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/ai-intensifies-responsibility.md)
+## [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software]( https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/ai-intensifies-responsibility.md)
 
 10 August 2026
 
@@ -20,7 +20,7 @@ This article argues that artificial intelligence intensifies, rather than dimini
 
 ---
 
-## [Reclaiming the Scar: Reinforcement Learning – Optimised Miyawaki Corridors for Defragmenting Logged Landscapes](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/reclaiming_the_scar.md) 
+## [Reclaiming the Scar: Reinforcement Learning – Optimised Miyawaki Corridors for Defragmenting Logged Landscapes](https://github.com/WilliamMurray-research/foundations/blob/main/ecology/restoration-ml/reclaiming_the_scar.md) 
 
 10 August 2026
 
@@ -28,7 +28,7 @@ I develop interdisciplinary frameworks that integrate restoration ecology, machi
 
 ---
 
-## [Languages of Structure: A Dual‑Layer Architecture for Symbolic and Governance Domain‑Specific Languages](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/languages_of_structure.md) 
+## [Languages of Structure: A Dual‑Layer Architecture for Symbolic and Governance Domain‑Specific Languages](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/languages_of_structure.md) 
 
 9 August 2026
 
@@ -36,7 +36,7 @@ This paper synthesizes two domain-specific languages (DSLs) developed within a u
 
 ---
 
-## [The Craft of Structured Intelligence: How Context Engineering and Iterative Shaping Form a Unified Theory of Human–AI Reasoning](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/craft_of_structured_intelligence.md) 
+## [The Craft of Structured Intelligence: How Context Engineering and Iterative Shaping Form a Unified Theory of Human–AI Reasoning](https://github.com/WilliamMurray-research/foundations/blob/main/systems/epistemics/craft_of_structured_intelligence.md) 
 
 9 August 2026
 
@@ -44,7 +44,7 @@ In this paper, I argue that high-quality human reasoning and large language mode
 
 ---
 
-## [AI‑Driven De Novo Design of Functional Bacteriophage Genomes: Integrating Genome Language Models with Synthetic Genomics and Wetlab Validation](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/ai_bio.md) 
+## [AI‑Driven De Novo Design of Functional Bacteriophage Genomes: Integrating Genome Language Models with Synthetic Genomics and Wetlab Validation](https://github.com/WilliamMurray-research/foundations/blob/main/ai-bio/phage_genome/ai_bio.md) 
 
 8 August 2026
 
@@ -52,7 +52,7 @@ In this paper, I examine the work of the Arc Institute and Stanford University, 
 
 ---
 
-## [Prototyping as an Epistemic Taxonomy in Software Systems](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/prototyping_taxonomy.md)  
+## [Prototyping as an Epistemic Taxonomy in Software Systems](https://github.com/WilliamMurray-research/foundations/blob/main/systems/epistemics/prototyping_taxonomy.md)  
 
 26 July 2026
 
@@ -60,7 +60,7 @@ This article argues that prototyping in software engineering is not a single exp
 
 ---
 
-## [Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/risk_first_class_entity.md)
+## [Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems](https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/risk_first_class_entity.md)
 
  26 July 2026
 
@@ -68,7 +68,7 @@ This whitepaper argues that risk must be treated as a first‑class entity in th
 
 ---
 
-## [The Architecture of Plausibility: Reconceptualising Large Language Models Beyond the Knowledge Base Paradigm](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/architecture_plausibility.md)
+## [The Architecture of Plausibility: Reconceptualising Large Language Models Beyond the Knowledge Base Paradigm](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/architecture_plausibility.md)
 
 19 May 2026
 
@@ -76,7 +76,7 @@ The mainstream adoption of Large Language Models (LLMs) has led to a widespread 
 
 ---
 
-## [The Two-Tier Emergence Hypothesis: A Substrate‑Agnostic Theory of Intelligence, Consciousness, and Synchronisation Operators](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/two_tier.md)
+## [The Two-Tier Emergence Hypothesis: A Substrate‑Agnostic Theory of Intelligence, Consciousness, and Synchronisation Operators](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/two_tier.md)
 
 4 April 2026
 
@@ -84,7 +84,7 @@ This paper presents Version 6 of the Two‑Tier Emergence Hypothesis, a substrat
 
 ---
 
-## [Beyond the Linguistic Cortex: A Modular, Brain-Aligned Architecture for Artificial General Intelligence](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/linguistic_cortex.md)  
+## [Beyond the Linguistic Cortex: A Modular, Brain-Aligned Architecture for Artificial General Intelligence](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/linguistic_cortex.md)  
 
 2 April 2026
 
@@ -92,7 +92,7 @@ This paper challenges the scaling hypothesis of monolithic LLMs, proposing inste
 
 ---
 
-## [The Latency–Accuracy Exchange Principle: A Framework for Correctness-Oriented Software Development](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/latency-accuracy-exchange.md) 
+## [The Latency–Accuracy Exchange Principle: A Framework for Correctness-Oriented Software Development](https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/latency-accuracy-exchange.md) 
 
 16 February 2026
 
@@ -100,7 +100,7 @@ This paper introduces the latency–accuracy exchange principle: the idea that t
 
 ---
 
-## [Website Design: Minimising Cognitive Load and Maximising Dominant Schemas and Master Narratives](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/website_design.md) 
+## [Website Design: Minimising Cognitive Load and Maximising Dominant Schemas and Master Narratives](https://github.com/WilliamMurray-research/foundations/blob/main/systems/epistemics/website_design.md) 
 
 20 September 2025
 
@@ -108,7 +108,7 @@ This document outlines a principled framework for web design that reduces cognit
 
 ---
 
-## [COBOL as Institutional Artifact: Epistemic Drift and the Paradox of Robust Neglect in Legacy Computing Infrastructure](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/COBOL.md) 
+## [COBOL as Institutional Artifact: Epistemic Drift and the Paradox of Robust Neglect in Legacy Computing Infrastructure](https://github.com/WilliamMurray-research/foundations/blob/main/programming/COBOL.md) 
 
 2 September 2025
 
@@ -116,7 +116,7 @@ COBOL, despite its widespread use in critical infrastructure like ATM and credit
 
 ---
 
-## [The Cognitive Burden of Object-Oriented Programming: A Critical Analysis of Encapsulation, Abstraction, and the Failure of Modular Coherence](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/cognitive_burden_OOP.md) 
+## [The Cognitive Burden of Object-Oriented Programming: A Critical Analysis of Encapsulation, Abstraction, and the Failure of Modular Coherence](https://github.com/WilliamMurray-research/foundations/blob/main/programming/cognitive_burden_OOP.md) 
 
 29 August 2025
 
@@ -132,7 +132,7 @@ Classical artificial intelligence paradigms, which are based on anthropocentric 
 
 ---
 
-## [Cognitive Minimalism in Programming: Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/cognitive_minimalism_programming.md) 
+## [Cognitive Minimalism in Programming: Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices](https://github.com/WilliamMurray-research/foundations/blob/main/programming/cognitive_minimalism_programming.md) 
 
 7 August 2025
 
