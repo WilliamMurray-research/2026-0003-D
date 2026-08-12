@@ -1,7 +1,7 @@
 # The Craft of Structured Intelligence: How Context Engineering and Iterative Shaping Form a Unified Theory of Human–AI Reasoning
 
-**William Murray**
-*9 August 2026*
+William Murray  
+9 August 2026  
 
 Human intelligence and artificial intelligence are often framed as fundamentally different, but their most powerful modes of operation share a deep structural symmetry. Both rely on context, scaffolding, and iterative refinement. Both produce shallow output when forced into one-shot generation. Both achieve depth only when guided through deliberate cycles of structuring, shaping, and revisiting. This essay argues that the principles governing high-quality prompting for large language models (LLMs) are the same principles governing high-quality human learning. Together, they form a unified theory of structured intelligence: an approach to reasoning that treats context architecture and iterative shaping as the twin engines of depth.
 
