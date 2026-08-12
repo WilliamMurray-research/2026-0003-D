@@ -1,8 +1,8 @@
 # Reclaiming the Scar: Reinforcement Learning – Optimised Miyawaki Corridors for Defragmenting Logged Landscapes
 
-**William Murray**
-*10 August 2026*
-*Version 0.4*
+William Murray  
+10 August 2026  
+Version 0.4  
 
 ---
 
