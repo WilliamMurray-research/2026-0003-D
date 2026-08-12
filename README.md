@@ -10,38 +10,33 @@ A research-grade repository maintaining the formal mathematical foundations and 
 foundations/
 ├── math/
 │   └── curricula/                     # Mathematical research paths
-│
-├── systems/
-│   ├── manifestos/                    # Systems engineering monographs
-│   │   ├── ai-intensifies-responsibility.md
-│   │   ├── constraint-driven-design.md
-│   │   ├── latency-accuracy-exchange.md
-│   │   ├── governed-computational-ecosystems.md
-│   │   └── risk-as-first-class.md     # NEW (ISO 27000/31000/42001 paper)
-│   │
-│   ├── architectures/                 # AGI, modular systems, DSLs
-│   │   ├── two-tier-emergence.md
-│   │   ├── linguistic-cortex-agi.md
-│   │   ├── dual-layer-dsls.md
-│   │   └── architecture-of-plausibility.md
-│   │
-│   └── epistemics/                    # Reasoning, context engineering, prototyping
-│       ├── structured-intelligence.md
-│       ├── epistemic-prototyping.md
-│       └── latency-as-correctness.md  # (could live here instead of manifestos)
-│
+├── ai-bio/
+│   └── phage-genome-design.md
 ├── ecology/
 │   └── restoration-ml/
-│       └── miyawaki-rl-corridors.md   # NEW
-│
+│       └── reclaiming-the-scar.md
 ├── programming/
-│   ├── cognitive-minimalism.md
-│   ├── oop-cognitive-burden.md
-│   └── cobol-epistemic-drift.md
-│
-├── ai-bio/
-│   └── phage-genome-design.md         # NEW (AI-driven synthetic genomics)
-│
+│   ├── cobol-epistemic-drift.md
+│   ├── cognitive-burden-oop.md
+│   └── cognitive-minimalism.md
+├── systems/
+│   ├── architectures/
+│   │   ├── architecture-of-plausibility.md
+│   │   ├── beyond-classical-paradigms.md
+│   │   ├── dual-layer-dsls.md
+│   │   ├── linguistic-cortex-agi.md
+│   │   ├── two-tier-emergence.md
+│   │   └── whorfian-agent.md
+│   ├── epistemics/
+│   │   ├── prototyping-taxonomy.md
+│   │   ├── structured-intelligence.md
+│   │   └── website-design.md
+│   └── manifestos/
+│       ├── ai-intensifies-responsibility.md
+│       ├── constraint-driven-design.md
+│       ├── governed-computational-ecosystems.md
+│       ├── latency-accuracy-exchange.md
+│       └── risk-as-first-class.md
 ├── CHANGELOG.md
 ├── LICENSE
 └── README.md
