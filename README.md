@@ -82,7 +82,7 @@ This document outlines a principled framework for web design that reduces cognit
 
 ### Governance and Law
 
-#### [Australian‑Law Justification for Custodial Stewardship](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/systems/manifestos/custodial_stewardship.md)
+#### [Australian‑Law Justification for Custodial Stewardship](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/001.md)
 
 14 August 2026
 
