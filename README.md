@@ -1,12 +1,12 @@
 # Foundations  
 
-The doctrinal and philosophical substrate of the research programme. These papers establish the epistemological commitments, architectural principles, and governance frameworks that the computational and mathematical work rests on. Mathematical foundations are maintained in /math.
+The doctrinal and philosophical substrate of the research programme. These papers establish the epistemological commitments, architectural principles, and governance frameworks that the computational and mathematical work rests on. 
 
 ---
 
 ## Pillars of Research  
 
-### 1. Mathematics 
+## [Mathematics](https://github.com/WilliamMurray-research/2026-0003-D/tree/main/math) 
 
 Integrates dynamical systems, symplectic geometry, symbolic dynamics, domain theory, and transfinite topology into a unified operator framework accompanying the Unified Operator Architecture (UOA) corpus.
 
