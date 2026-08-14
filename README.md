@@ -16,12 +16,6 @@ Integrates dynamical systems, symplectic geometry, symbolic dynamics, domain the
 
 ### Epistemology and Cognition
 
-#### [The Whorfian Agent: How LLMs Embody Linguistic Relativity Without Embodiment](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/whorfian.md) 
-
-7 July 2025
-
-This paper argues that Large Language Models (LLMs) are the most complete realisation of the Sapir-Whorf hypothesis, functioning as "Whorfian machines" whose cognition is entirely shaped by linguistic input without embodied experience or metacognitive reflection. It explores the cultural, epistemic, and governance implications of deploying such linguistically bounded systems, advocating for AI development that prioritises epistemic diversity and linguistic stewardship.
-
 #### [The Architecture of Plausibility: Reconceptualising Large Language Models Beyond the Knowledge Base Paradigm](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/architecture_plausibility.md)
 
 19 May 2026
@@ -39,6 +33,12 @@ In this paper, I argue that high-quality human reasoning and large language mode
 26 July 2026
 
 This article argues that prototyping in software engineering is not a single exploratory practice but a set of distinct epistemic modes - abductive, inductive, and deductive - each producing different forms of knowledge. It develops a structured account of deductive prototyping, where formal reasoning and constraint selection precede implementation, enabling early detection of structural errors, clearer boundaries between theory and execution, and high‑leverage architectural refinement. In domains where mathematical and algorithmic constraints are available, deductive prototyping offers a methodologically rigorous way to reduce uncertainty before building systems, providing a more precise alternative to unguided exploratory prototyping.
+
+#### [The Whorfian Agent: How LLMs Embody Linguistic Relativity Without Embodiment](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/whorfian.md) 
+
+7 July 2025
+
+This paper argues that Large Language Models (LLMs) are the most complete realisation of the Sapir-Whorf hypothesis, functioning as "Whorfian machines" whose cognition is entirely shaped by linguistic input without embodied experience or metacognitive reflection. It explores the cultural, epistemic, and governance implications of deploying such linguistically bounded systems, advocating for AI development that prioritises epistemic diversity and linguistic stewardship.
 
 ### Systems Doctrine  
 
@@ -74,6 +74,12 @@ This paper introduces the latency–accuracy exchange principle: the idea that t
 
 This whitepaper argues that risk must be treated as a first‑class entity in the design of autonomous and semi‑autonomous systems. Drawing on decades of professional experience witnessing unmanaged risk bankrupt organisations and cause real‑world harm, it establishes ISO 27000, ISO 31000, and ISO 42001 as the minimum acceptable professional standard for responsible automation. The paper outlines how modern failure modes exceed human intuition, why traditional engineering cultures fall short, and how risk‑first architecture provides the only defensible foundation for safe, governed, and accountable system design.
 
+#### [Website Design: Minimising Cognitive Load and Maximising Dominant Schemas and Master Narratives](https://github.com/WilliamMurray-research/foundations/blob/main/systems/epistemics/website_design.md) 
+
+20 September 2025
+
+This document outlines a principled framework for web design that reduces cognitive load by aligning interface elements with familiar schemas and master narratives, enhancing user comprehension and task efficiency. It emphasises clarity through legible typography, predictable structure, and progressive disclosure, while offering a playbook for evaluating usability, credibility, and accessibility.
+
 ### Governance and Law
 
 #### [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software]( https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/ai_intensifies_responsibility.md)
@@ -81,12 +87,6 @@ This whitepaper argues that risk must be treated as a first‑class entity in th
 10 August 2026
 
 This article argues that artificial intelligence intensifies, rather than diminishes, legal responsibility in contemporary engineering practice. It demonstrates that negligence doctrine already accommodates artificial intelligence‑generated software by expanding foreseeability, increasing the burden of reasonable precautions, and heightening organisational governance obligations. Drawing on leading authorities including Rogers v Whitaker, Wyong Shire Council v Shirt, March v Stramare, and Medlin, the analysis shows how duty, breach, causation, and damage apply to opaque, stochastic systems. The article integrates civil‑law principles, industry standards, and regulatory frameworks, critically examines the divergence between negligence’s unitary standard and the European Union’s risk‑tiered Artificial Intelligence Act, and explains how equitable doctrines such as fiduciary duties, estoppel, unconscionability, and breach of confidence interact with negligence in practice. It concludes that existing legal principles are sufficient to regulate artificial intelligence‑augmented engineering, provided that engineers and organisations implement governance systems commensurate with the heightened risks.
-
-#### [Website Design: Minimising Cognitive Load and Maximising Dominant Schemas and Master Narratives](https://github.com/WilliamMurray-research/foundations/blob/main/systems/epistemics/website_design.md) 
-
-20 September 2025
-
-This document outlines a principled framework for web design that reduces cognitive load by aligning interface elements with familiar schemas and master narratives, enhancing user comprehension and task efficiency. It emphasises clarity through legible typography, predictable structure, and progressive disclosure, while offering a playbook for evaluating usability, credibility, and accessibility.
 
 ### Consciousness and Intelligence  
 
