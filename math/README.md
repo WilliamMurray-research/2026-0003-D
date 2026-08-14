@@ -73,9 +73,3 @@ The repo includes solutions or templates for all official checkpoints:
 - **CP6:** Empirical complexity $$\(K\)$$ from swarm/biology data  
 
 ---
-
-## Contributing  
-
-Contributions are off
-
----
