@@ -142,9 +142,5 @@ In this paper, I examine the work of the Arc Institute and Stanford University, 
 
 ---
 
-### Custodial & Governance Principles
 
-This repository operates under a custodial stewardship model.  
-All work must strictly adhere to the defined [standards frameworks](https://github.com/WilliamMurray-research/2026-0001-D).  
-External social metrics are decoupled from internal architectural governance.
 
