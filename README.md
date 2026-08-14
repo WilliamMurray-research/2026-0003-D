@@ -1,6 +1,6 @@
 # Foundations  
 
-The doctrinal and philosophical substrate of the research programme. These papers establish the epistemological commitments, architectural principles, and governance frameworks that the computational and mathematical work rests on. 
+The doctrinal and philosophical bases of the research programme. These papers establish the epistemological commitments, architectural principles, and governance frameworks that the computational and mathematical work rests on. 
 
 ---
 
