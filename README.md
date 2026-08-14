@@ -82,6 +82,12 @@ This document outlines a principled framework for web design that reduces cognit
 
 ### Governance and Law
 
+#### [Australian‑Law Justification for Custodial Stewardship](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/systems/manifestos/custodial_stewardship.md)
+
+14 August 2026
+
+The custodial governance model adopted by the Unified Operator Architecture (UOA) programme is grounded in well‑established principles of Australian law. Although “custodial stewardship” is not a named doctrine within Australian jurisprudence, its functional obligations align directly with the duties recognised in fiduciary law, trusts, administrative‑law custodianship, and corporate governance. These bodies of law collectively articulate a coherent framework for the responsible management of valuable, governed, and risk‑sensitive assets.
+
 #### [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software]( https://github.com/WilliamMurray-research/foundations/blob/main/systems/manifestos/ai_intensifies_responsibility.md)
 
 10 August 2026
