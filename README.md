@@ -8,8 +8,7 @@
 # Foundations  
 ### Governance   
 
-**Type**: read   
-**Classification**: D  
+**Type**: read    
 **Version**: 1.0         
 
 William Murray  
