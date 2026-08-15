@@ -62,6 +62,12 @@ This paper argues that Large Language Models (LLMs) are the most complete realis
 
 ### Systems Doctrine  
 
+#### [Cognitive Load, Separation of Concerns, Maintainability, and the Applicability of Microservices in Modern Software Architecture](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/papers/microservices_CLT.md)  
+
+15 August 2026
+
+This paper explores the relationship between cognitive load, system architecture, and maintainability, specifically evaluating the applicability of microservices. The central argument is that Separation of Concerns (SoC) acts as the critical mediator: whether microservices reduce or increase cognitive load depends entirely on the clarity and preservation of these architectural boundaries. While microservices can reduce code-level complexity, they introduce distributed system concerns that amplify extraneous cognitive load if boundaries are weak or cross-cutting concerns are fragmented. The paper posits that true maintainability is achieved only when microservice boundaries align with domain concepts, are supported by strong tooling, and when operational complexities (like network failures) are managed through centralized methods. Ultimately, the success of a microservices architecture hinges on maintaining clear separation across both code and socio-technical structures to ensure cognitive efficiency for developers.  
+
 #### [Cognitive Minimalism in Programming: Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices](https://github.com/WilliamMurray-research/foundations/blob/main/programming/cognitive_minimalism_programming.md) 
 
 7 August 2025
