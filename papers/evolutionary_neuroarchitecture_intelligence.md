@@ -1,4 +1,8 @@
-# The Evolutionary Neuroarchitecture of Human Intelligence: Cortical–Subcortical Dynamics, Firing Manifolds, and the Roots of Human Irrationality**
+# The Evolutionary Neuroarchitecture of Human Intelligence
+## Cortical–Subcortical Dynamics, Firing Manifolds, and the Roots of Human Irrationality
+
+William Murray
+16 August 2026  
 
 ## **Abstract**  
 Human cognition emerges from the interaction between evolutionarily ancient subcortical systems and the newer cortical structures layered above them. This paper synthesizes current neuroscientific understanding of how subcortical firing manifolds shape, constrain, and modulate cortical population dynamics, producing both adaptive intelligence and characteristic forms of human irrationality. We argue that human cognition is best understood as a hierarchically integrated dynamical system, where ancient motivational circuits set the operating modes within which cortical computation unfolds. This architecture explains the persistence of tribalism, fear‑based biases, and emotional irrationality in modern environments, and provides a biologically grounded template for brain‑inspired artificial general intelligence.
