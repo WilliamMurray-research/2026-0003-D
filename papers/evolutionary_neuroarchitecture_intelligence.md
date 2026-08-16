@@ -1,7 +1,7 @@
 # The Evolutionary Neuroarchitecture of Human Intelligence
 ## Cortical–Subcortical Dynamics, Firing Manifolds, and the Roots of Human Irrationality
 
-William Murray
+William Murray  
 16 August 2026  
 
 ## **Abstract**  
