@@ -29,8 +29,6 @@ This comprehensive collection of papers establishes an interdisciplinary archite
 
 ---
 
----
-
 ## Pillars of Research  
 
 ## [Mathematics](https://github.com/WilliamMurray-research/2026-0003-D/tree/main/math) 
