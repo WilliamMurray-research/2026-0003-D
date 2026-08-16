@@ -54,6 +54,8 @@ Research Architect
 | [2026-0003-D-ppr-026](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/026.md) | 1.0 | The First Honest Machine |  This essay argues that the central challenge for the next generation of artificial intelligence is not the pursuit of greater capability, but the construction of the first system that can be described as *honest*. |
 | [2026-0003-D-ppr-027](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/027.md) | 1.0 |  |  |
 | [2026-0003-D-ppr-028](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/028.md) | 1.0 |  |  |
+| [2026-0003-D-ppr-029](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/029.md) | 1.0 |  |  |
+| [2026-0003-D-ppr-030](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/030.md) | 1.0 |  |  |
 
 ---
 
