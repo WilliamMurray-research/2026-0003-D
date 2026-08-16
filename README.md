@@ -31,7 +31,9 @@ Integrates dynamical systems, symplectic geometry, symbolic dynamics, domain the
 
 ---
 
-## [Papers](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/asset/toc-papers.md)
+## [Papers](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/asset/toc-papers.md)  
+
+This comprehensive collection of papers establishes an interdisciplinary architecture for systems design, unifying epistemics, software engineering, governance, and neuro-aligned artificial intelligence. Across these domain-specific investigations, the collection critiques prevailing technical paradigms – such as monolithic large language model scaling, unconstrained software bloat, and naive object-oriented abstraction – by confronting their hidden cognitive, legal, and operational costs. In response, the author proposes a framework grounded in cognitive minimalism, strict separation of concerns, formal risk management, and substrate-agnostic emergence. By treating computational latency as an explicit investment in accuracy and positioning risk as a first-class design constraint, these works collectively establish a rigorous foundation for building high-reliability, ethically governed, and cognitively aligned autonomous systems.  
 
 
 
