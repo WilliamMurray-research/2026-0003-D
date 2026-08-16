@@ -99,11 +99,18 @@ Classical artificial intelligence paradigms, which are based on anthropocentric 
 Human cognition emerges from the interaction between evolutionarily ancient subcortical systems and the newer cortical structures layered above them. This paper synthesises current neuroscientific understanding of how subcortical firing manifolds shape, constrain, and modulate cortical population dynamics, producing both adaptive intelligence and characteristic forms of human irrationality. I argue that human cognition is best understood as a hierarchically integrated dynamical system, where ancient motivational circuits set the operating modes within which cortical computation unfolds. This architecture explains the persistence of tribalism, fear‑based biases, and emotional irrationality in modern environments, and provides a biologically grounded template for brain‑inspired artificial general intelligence.
 
 
-#### [Beyond the Linguistic Cortex: A Modular, Brain-Aligned Architecture for Artificial General Intelligence](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/linguistic_cortex.md)  
+#### [Beyond the Linguistic Cortex — Part 1: A Modular, Brain-Aligned Architecture for Artificial General Intelligence](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/papers/linguistic_cortex-part1.md)
 
 2 April 2026
 
 This paper challenges the scaling hypothesis of monolithic LLMs, proposing instead a modular framework that treats language models as a specialized "linguistic cortex" rather than a complete cognitive system. It introduces the Digital Corpus Callosum, a high-bandwidth integration fabric designed to synchronize symbolic language with sub-symbolic world models, and defines the Minimal Viable AGI (MVAGI) – a pragmatic implementation pathway for integrated, governed, and homeostatic artificial intelligence.
+
+#### [Beyond the Linguistic Cortex — Part 2: The Excluded Volume](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/papers/linguistic_cortex-part2.md)
+
+16 August 2026
+
+Part 1 of this essay introduced the Digital Corpus Callosum (DCC) as a high-bandwidth integration fabric for modular AGI — a mechanism for aligning, routing, and arbitrating between the symbolic outputs of the Language Module and the sub-symbolic representations of the World Model. That framing, however, is incomplete. An integration fabric that only characterises what it passes through is architecturally underspecified. This essay argues that the DCC is more precisely understood as a constraint manifold: a structure defined equally by its included column space and its excluded null space. The representations that the DCC suppresses — the system's excluded volume — are not incidental byproducts of alignment but a primary locus of safety, interpretability, and coherent agency. We introduce the concept of the null space multiplier as an explicit architectural mechanism for characterising, inspecting, and learning the excluded volume. We argue that without this, the DCC reduces to a routing layer, confabulation is uncontrollable, and safety constraints remain implicit and brittle. A null space formulation transforms the DCC from a positive integration mechanism into a complete constraint architecture.
+
 
 #### [The Two-Tier Emergence Hypothesis: A Substrate‑Agnostic Theory of Intelligence, Consciousness, and Synchronisation Operators](https://github.com/WilliamMurray-research/foundations/blob/main/systems/architectures/two_tier.md)
 
