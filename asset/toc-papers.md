@@ -1,16 +1,16 @@
-#### [The Architecture of Plausibility: Reconceptualising Large Language Models Beyond the Knowledge Base Paradigm](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/architecture_plausibility.md)
+#### [The Architecture of Plausibility: Reconceptualising Large Language Models Beyond the Knowledge Base Paradigm](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/002.md)
 
 19 May 2026
 
 The mainstream adoption of Large Language Models (LLMs) has led to a widespread public misconception of these systems as dynamic search engines or static knowledge repositories. Evaluating LLMs through the lens of traditional information retrieval masks their core mechanics, leading to systemic misuse, misplaced trust, and a fundamental misunderstanding of generative "hallucinations". This paper argues that LLMs are fundamentally plausibility engines – statistical systems optimized for textual mimicry and linguistic coherence rather than empirical factual verification. Understanding this structural distinction is vital for safely deploying, regulating, and advancing artificial intelligence systems within academic, professional, and civic spheres.    
 
-#### [AI‑Driven De Novo Design of Functional Bacteriophage Genomes: Integrating Genome Language Models with Synthetic Genomics and Wetlab Validation](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/phage_genome_design.md)
+#### [AI‑Driven De Novo Design of Functional Bacteriophage Genomes: Integrating Genome Language Models with Synthetic Genomics and Wetlab Validation](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/003.md)
 
 8 August 2026
 
 In this paper, I examine the work of the Arc Institute and Stanford University, in which genome language models (trained on trillions of nucleotides) were used to generate complete de novo bacteriophage genomes from minimal seed sequences derived from the well-characterised phage ΦX174. Of approximately 300 AI-generated genomes synthesised and experimentally tested, 16 produced viable phages capable of infecting and replicating within Escherichia coli, with several matching or exceeding the replication efficiency of natural ΦX174, and some displaying novel traits including expanded host range and unexpected protein variants confirmed by cryo-electron microscopy. The results demonstrate that genome language models can internalise deep biological constraints and explore functional sequence space substantially beyond what natural evolution has sampled, offering a powerful new workflow for synthetic biology with potential applications in phage therapy, microbiome engineering, and bioremediation. The paper situates these findings within an analysis of biosafety, biosecurity, dual-use, and geopolitical risks, and concludes with policy recommendations for international governance of AI-driven biological design capabilities.  
 
-#### [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/ai_intensifies_responsibility.md)
+#### [Artificial Intelligence Intensifies Responsibility: How Australian doctrine, civil‑law principles, and equitable obligations converge on a unified framework for artificial intelligence‑generated software](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/004.md)
 
 10 August 2026
 
@@ -22,49 +22,49 @@ This article argues that artificial intelligence intensifies, rather than dimini
 
 The custodial governance model adopted by the Unified Operator Architecture (UOA) programme is grounded in well‑established principles of Australian law. Although “custodial stewardship” is not a named doctrine within Australian jurisprudence, its functional obligations align directly with the duties recognised in fiduciary law, trusts, administrative‑law custodianship, and corporate governance. These bodies of law collectively articulate a coherent framework for the responsible management of valuable, governed, and risk‑sensitive assets.  
 
-#### [Beyond Classical Pardadigms: Analytical Examination of Post-Anthropocentric Artificial Intelligence Frameworks](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/beyond_classical_paradigms.md)
+#### [Beyond Classical Pardadigms: Analytical Examination of Post-Anthropocentric Artificial Intelligence Frameworks](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/006.md)
 
 10 August 2025
 
 Classical artificial intelligence paradigms, which are based on anthropocentric assumptions like thinking and acting humanly, are becoming increasingly inadequate for modern AI development. A transition to post-anthropocentric frameworks is necessary for creating ethically sound and adaptable AI systems that can effectively manage complex, value-pluralistic challenges in contemporary society.  
 
-#### [Beyond the Linguistic Cortex — Part 1: A Modular, Brain-Aligned Architecture for Artificial General Intelligence](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/linguistic_cortex-part1.md)
+#### [Beyond the Linguistic Cortex — Part 1: A Modular, Brain-Aligned Architecture for Artificial General Intelligence](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/007.md)
 
 2 April 2026
 
 This paper challenges the scaling hypothesis of monolithic LLMs, proposing instead a modular framework that treats language models as a specialized "linguistic cortex" rather than a complete cognitive system. It introduces the Digital Corpus Callosum, a high-bandwidth integration fabric designed to synchronize symbolic language with sub-symbolic world models, and defines the Minimal Viable AGI (MVAGI) – a pragmatic implementation pathway for integrated, governed, and homeostatic artificial intelligence.  
 
-#### [Beyond the Linguistic Cortex — Part 2: The Excluded Volume](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/linguistic_cortex-part2.md)
+#### [Beyond the Linguistic Cortex — Part 2: The Excluded Volume](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/008.md)
 
 16 August 2026
 
 Part 1 of this essay introduced the Digital Corpus Callosum (DCC) as a high-bandwidth integration fabric for modular AGI — a mechanism for aligning, routing, and arbitrating between the symbolic outputs of the Language Module and the sub-symbolic representations of the World Model. That framing, however, is incomplete. An integration fabric that only characterises what it passes through is architecturally underspecified. This essay argues that the DCC is more precisely understood as a constraint manifold: a structure defined equally by its included column space and its excluded null space. The representations that the DCC suppresses — the system's excluded volume — are not incidental byproducts of alignment but a primary locus of safety, interpretability, and coherent agency. I introduce the concept of the null space multiplier as an explicit architectural mechanism for characterising, inspecting, and learning the excluded volume. We argue that without this, the DCC reduces to a routing layer, confabulation is uncontrollable, and safety constraints remain implicit and brittle. A null space formulation transforms the DCC from a positive integration mechanism into a complete constraint architecture.  
 
-#### [COBOL as Institutional Artifact: Epistemic Drift and the Paradox of Robust Neglect in Legacy Computing Infrastructure](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/COBOL.md)
+#### [COBOL as Institutional Artifact: Epistemic Drift and the Paradox of Robust Neglect in Legacy Computing Infrastructure](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/009.md)
 
 2 September 2025
 
 COBOL, despite its widespread use in critical infrastructure like ATM and credit card processing, is a prime example of a "paradox of robust neglect" where its extraordinary reliability creates institutional blind spots, discouraging necessary modernisation and leading to a gradual loss of expertise and knowledge. This phenomenon, termed "epistemic drift," presents a significant risk as the systems become more opaque and the workforce that understands them approaches retirement.    
 
-#### [The Cognitive Burden of Object-Oriented Programming: A Critical Analysis of Encapsulation, Abstraction, and the Failure of Modular Coherence](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/cognitive_burden_OOP.md)
+#### [The Cognitive Burden of Object-Oriented Programming: A Critical Analysis of Encapsulation, Abstraction, and the Failure of Modular Coherence](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/010.md)
 
 29 August 2025
 
 This paper argues that Object-Oriented Programming (OOP) imposes an unnecessary cognitive burden on developers without delivering on its promises of modularity and maintainability. The paper critiques OOP for creating "cognitive fragmentation" through fine-grained encapsulation and forcing developers to use artificial abstractions, advocating for a return to simpler, more cognitively efficient procedural programming approaches.  
 
-#### [Cognitive Load, Separation of Concerns, Maintainability, and the Applicability of Microservices in Modern Software Architecture](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/microservices_CLT.md)
+#### [Cognitive Load, Separation of Concerns, Maintainability, and the Applicability of Microservices in Modern Software Architecture](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/011.md)
 
 15 August 2026
 
 This paper explores the relationship between cognitive load, system architecture, and maintainability, specifically evaluating the applicability of microservices. The central argument is that Separation of Concerns (SoC) acts as the critical mediator: whether microservices reduce or increase cognitive load depends entirely on the clarity and preservation of these architectural boundaries. While microservices can reduce code-level complexity, they introduce distributed system concerns that amplify extraneous cognitive load if boundaries are weak or cross-cutting concerns are fragmented. The paper posits that true maintainability is achieved only when microservice boundaries align with domain concepts, are supported by strong tooling, and when operational complexities (like network failures) are managed through centralized methods. Ultimately, the success of a microservices architecture hinges on maintaining clear separation across both code and socio-technical structures to ensure cognitive efficiency for developers.
 
-#### [Cognitive Minimalism in Programming: Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/cognitive_minimalism_programming.md)
+#### [Cognitive Minimalism in Programming: Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/012.md)
 
 7 August 2025
 
-This ideative research report proposes a framework for programming best practices based on Occam's Razor and Cognitive Load Theory to promote cognitive minimalism and epistemic restraint. The report argues that languages and practices designed to reduce cognitive burden can improve developer productivity, code maintainability, and system comprehensibility, particularly for neurodivergent individuals and in complex modular systems.
+This report proposes a framework for programming best practices based on Occam's Razor and Cognitive Load Theory to promote cognitive minimalism and epistemic restraint. The report argues that languages and practices designed to reduce cognitive burden can improve developer productivity, code maintainability, and system comprehensibility, particularly for neurodivergent individuals and in complex modular systems.
 
-#### [Constraint‑Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/constraint_driven_design.md)
+#### [Constraint‑Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/013.md)
 
 11 August 2026
 
@@ -72,68 +72,68 @@ Constraint-driven software engineer and systems architect investigating low-over
 
 Author’s note: This is a sketch of my thinking at this time; I expect to return to this later to formalise it.  
 
-#### [The Craft of Structured Intelligence: How Context Engineering and Iterative Shaping Form a Unified Theory of Human–AI Reasoning](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/structured_intelligence.md)
+#### [The Craft of Structured Intelligence: How Context Engineering and Iterative Shaping Form a Unified Theory of Human–AI Reasoning](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/014.md)
 
 9 August 2026
 
 In this paper, I argue that high-quality human reasoning and large language model (LLM) performance share a common structural foundation: both depend on deliberate context architecture and iterative refinement rather than spontaneous generation. Drawing a parallel between the LLM context window and human working memory, I contend that vague inputs - whether prompts or conceptual frameworks - produce shallow outputs in both systems. I introduce context engineering (the disciplined shaping of the reasoning environment through constraints, staging, and structure) and iteration (multi-phase cycles of refinement that deepen and recontextualise understanding) as the twin pillars of what he terms "structured intelligence." The essay concludes that in human–AI collaboration, the user functions as an architect of reasoning rather than a passive requester, and that mastery of these two principles is the foundation of genuinely deep intellectual work.
 
-#### [The Evolutionary Neuroarchitecture of Human Intelligence: Cortical–Subcortical Dynamics, Firing Manifolds, and the Roots of Human Irrationality](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/evolutionary_neuroarchitecture_intelligence.md)
+#### [The Evolutionary Neuroarchitecture of Human Intelligence: Cortical–Subcortical Dynamics, Firing Manifolds, and the Roots of Human Irrationality](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/015.md)
 
 16 August 2026
 
 Human cognition emerges from the interaction between evolutionarily ancient subcortical systems and the newer cortical structures layered above them. This paper synthesises current neuroscientific understanding of how subcortical firing manifolds shape, constrain, and modulate cortical population dynamics, producing both adaptive intelligence and characteristic forms of human irrationality. I argue that human cognition is best understood as a hierarchically integrated dynamical system, where ancient motivational circuits set the operating modes within which cortical computation unfolds. This architecture explains the persistence of tribalism, fear‑based biases, and emotional irrationality in modern environments, and provides a biologically grounded template for brain‑inspired artificial general intelligence.
 
-#### [Languages of Structure: A Dual‑Layer Architecture for Symbolic and Governance Domain‑Specific Languages](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/languages_of_structure.md)
+#### [Languages of Structure: A Dual‑Layer Architecture for Symbolic and Governance Domain‑Specific Languages](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/016.md)
 
 9 August 2026
 
 This paper synthesises two domain-specific languages (DSLs) developed within a unified systems architecture: a minimal, declarative symbolic language for local environmental state representation and an expressive, high-order governance language for global compiler pipeline orchestration. The work formalizes a dual-layer architectural model for structured systems, demonstrating that system coherence requires decoupling symbolic minimalism at the local state layer from governance maximalism at the structural regulation layer. Key design constraints, semantic abstractions, and deterministic orchestration mechanisms are analysed to establish a unified framework for state-governance separation in language engineering.  
 
-#### [The Latency–Accuracy Exchange Principle: A Framework for Correctness-Oriented Software Development](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/latency_accuracy_exchange.md)
+#### [The Latency–Accuracy Exchange Principle: A Framework for Correctness-Oriented Software Development](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/017.md)
 
 16 February 2026
 
 This paper introduces the latency–accuracy exchange principle: the idea that time is a resource deliberately invested to purchase correctness, determinism, and governance fidelity. Drawing on complexity theory, verification, distributed systems, and safety critical engineering, it argues that many systems should invert the industry’s speed first bias. The principle provides a formal lens for designing systems where correctness is paramount, demonstrating its application across databases, compilers, APIs, distributed consensus, and testing architectures.
 
-#### [Prototyping as an Epistemic Taxonomy in Software Systems](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/prototyping_taxonomy.md)
+#### [Prototyping as an Epistemic Taxonomy in Software Systems](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/018.md)
 
 26 July 2026
 
 This article argues that prototyping in software engineering is not a single exploratory practice but a set of distinct epistemic modes - abductive, inductive, and deductive - each producing different forms of knowledge. It develops a structured account of deductive prototyping, where formal reasoning and constraint selection precede implementation, enabling early detection of structural errors, clearer boundaries between theory and execution, and high‑leverage architectural refinement. In domains where mathematical and algorithmic constraints are available, deductive prototyping offers a methodologically rigorous way to reduce uncertainty before building systems, providing a more precise alternative to unguided exploratory prototyping.
 
-#### [Reclaiming the Scar: Reinforcement Learning – Optimised Miyawaki Corridors for Defragmenting Logged Landscapes](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/reclaiming_the_scar.md)
+#### [Reclaiming the Scar: Reinforcement Learning – Optimised Miyawaki Corridors for Defragmenting Logged Landscapes](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/019.md)
 
 10 August 2026
 
 I develop interdisciplinary frameworks that integrate restoration ecology, machine learning, and landscape topology to address the structural challenges posed by road‑driven forest fragmentation. My recent work focuses on reinforcement learning – optimised Miyawaki corridor design, combining ecological succession models, microclimate dynamics, and graph‑theoretic connectivity metrics to produce spatially efficient restoration strategies. This research aims to enhance landscape permeability, accelerate ecological recovery, and provide practitioners with robust, data‑driven tools for reconnecting degraded habitats.
 
-#### [Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/risk_first_class_entity.md)
+#### [Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/020.md)
 
 26 July 2026
 
 This whitepaper argues that risk must be treated as a first‑class entity in the design of autonomous and semi‑autonomous systems. Drawing on decades of professional experience witnessing unmanaged risk bankrupt organisations and cause real‑world harm, it establishes ISO 27000, ISO 31000, and ISO 42001 as the minimum acceptable professional standard for responsible automation. The paper outlines how modern failure modes exceed human intuition, why traditional engineering cultures fall short, and how risk‑first architecture provides the only defensible foundation for safe, governed, and accountable system design.  
 
 
-#### [Token Binning and Clause‑Length Token Averaging for Model‑Aligned Text Complexity Analysis](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/papers/token_binning.md)  
+#### [Token Binning and Clause‑Length Token Averaging for Model‑Aligned Text Complexity Analysis](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/papers/021.md)  
 
 16 August 2026  
 
 Token‑aligned complexity measures are increasingly important for understanding how Large Language Models (LLMs) behave across varying input lengths. This paper formalizes a simple, reproducible method combining token binning and clause‑length token averaging to characterize clause‑level token distributions in text corpora. The method is not novel; its value lies in providing a consistent, model‑aligned diagnostic tool for dataset profiling, chunking strategy design, and length‑sensitive model evaluation. A mathematical annex provides formal definitions, notation, and distributional properties.  
 
-#### [Website Design: Minimising Cognitive Load and Maximising Dominant Schemas and Master Narratives](https://github.com/WilliamMurray-research/foundations/blob/main/pprs/website_design.md)
+#### [Website Design: Minimising Cognitive Load and Maximising Dominant Schemas and Master Narratives](https://github.com/WilliamMurray-research/foundations/blob/main/pprs/022.md)
 
 20 September 2025
 
 This document outlines a principled framework for web design that reduces cognitive load by aligning interface elements with familiar schemas and master narratives, enhancing user comprehension and task efficiency. It emphasises clarity through legible typography, predictable structure, and progressive disclosure, while offering a playbook for evaluating usability, credibility, and accessibility.  
 
-#### [The Whorfian Agent: How LLMs Embody Linguistic Relativity Without Embodiment](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/whorfian.md)
+#### [The Whorfian Agent: How LLMs Embody Linguistic Relativity Without Embodiment](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/023.md)
 
 7 July 2025
 
 This paper argues that Large Language Models (LLMs) are the most complete realisation of the Sapir-Whorf hypothesis, functioning as "Whorfian machines" whose cognition is entirely shaped by linguistic input without embodied experience or metacognitive reflection. It explores the cultural, epistemic, and governance implications of deploying such linguistically bounded systems, advocating for AI development that prioritises epistemic diversity and linguistic stewardship.  
 
-#### [The Two-Tier Emergence Hypothesis: A Substrate‑Agnostic Theory of Intelligence, Consciousness, and Synchronisation Operators](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/two_tier.md)
+#### [The Two-Tier Emergence Hypothesis: A Substrate‑Agnostic Theory of Intelligence, Consciousness, and Synchronisation Operators](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/024.md)
 
 4 April 2026
 
