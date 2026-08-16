@@ -1,7 +1,8 @@
-# Beyond the Linguistic Cortex — Part 2: The Excluded Volume
-### The Digital Corpus Callosum as Constraint Manifold, and the Case for Null Space Architecture
+# Beyond the Linguistic Cortex — Part 2: The Excluded Volume  
+## The Digital Corpus Callosum as Constraint Manifold, and the Case for Null Space Architecture  
 
-**William Murray**
+William Murray  
+16 August 2026  
 
 ---
 
