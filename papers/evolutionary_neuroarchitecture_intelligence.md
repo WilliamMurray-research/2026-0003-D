@@ -5,12 +5,12 @@ William Murray
 16 August 2026  
 
 ## **Abstract**  
-Human cognition emerges from the interaction between evolutionarily ancient subcortical systems and the newer cortical structures layered above them. This paper synthesizes current neuroscientific understanding of how subcortical firing manifolds shape, constrain, and modulate cortical population dynamics, producing both adaptive intelligence and characteristic forms of human irrationality. We argue that human cognition is best understood as a hierarchically integrated dynamical system, where ancient motivational circuits set the operating modes within which cortical computation unfolds. This architecture explains the persistence of tribalism, fear‑based biases, and emotional irrationality in modern environments, and provides a biologically grounded template for brain‑inspired artificial general intelligence.
+Human cognition emerges from the interaction between evolutionarily ancient subcortical systems and the newer cortical structures layered above them. This paper synthesizes current neuroscientific understanding of how subcortical firing manifolds shape, constrain, and modulate cortical population dynamics, producing both adaptive intelligence and characteristic forms of human irrationality. I argue that human cognition is best understood as a hierarchically integrated dynamical system, where ancient motivational circuits set the operating modes within which cortical computation unfolds. This architecture explains the persistence of tribalism, fear‑based biases, and emotional irrationality in modern environments, and provides a biologically grounded template for brain‑inspired artificial general intelligence.
 
 ---
 
 ## **1. Introduction**
-Human intelligence is not solely a product of the neocortex. Instead, it arises from the structured interaction between evolutionarily old and new neural systems. The cortex contributes flexible computation, abstraction, and planning, while subcortical structures provide motivation, action selection, emotional salience, and survival‑oriented heuristics. Understanding this interaction requires analyzing the firing manifolds—low‑dimensional trajectories of neural population activity—that characterize both cortical and subcortical dynamics.
+Human intelligence is not solely a product of the neocortex. Instead, it arises from the structured interaction between evolutionarily old and new neural systems. The cortex contributes flexible computation, abstraction, and planning, while subcortical structures provide motivation, action selection, emotional salience, and survival‑oriented heuristics. Understanding this interaction requires analysing the firing manifolds — low‑dimensional trajectories of neural population activity — that characterize both cortical and subcortical dynamics.
 
 This paper synthesizes current knowledge about these systems and their interactions, drawing on research in systems neuroscience, computational neurobiology, and evolutionary psychology. It also highlights how these principles can inform the design of biologically grounded artificial general intelligence.
 
@@ -19,7 +19,7 @@ This paper synthesizes current knowledge about these systems and their interacti
 ## **2. Evolutionary Architecture of the Human Brain**
 
 ### **2.1 Subcortical Systems: The Ancient Substrate of Agency**
-Subcortical structures—including the basal ganglia, amygdala, hypothalamus, brainstem, and cerebellum—constitute the evolutionarily ancient core of the vertebrate brain. These systems implement fundamental survival functions such as:
+Subcortical structures — including the basal ganglia, amygdala, hypothalamus, brainstem, and cerebellum — constitute the evolutionarily ancient core of the vertebrate brain. These systems implement fundamental survival functions such as:
 
 - action selection  
 - motivational drives  
