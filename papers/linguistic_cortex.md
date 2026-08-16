@@ -1,48 +1,7 @@
-# Beyond the Linguistic Cortex
-**A Modular, Brain-Aligned Architecture for Artificial General Intelligence**
+# Beyond the Linguistic Cortex - Part 1: A Modular, Brain-Aligned Architecture for Artificial General Intelligence  
 
 William Murray  
 2 April 2026
-
----
-
-## Table of Contents  
-1. Introduction  
-2. The Limits of Monolithic Language Models  
-    2.1 The Stochastic Parrot Problem  
-    2.2 The Grounding Problem  
-    2.3 The Memory and Planning Deficit  
-    2.4 The Scaling Hypothesis and Its Limits  
-3. Biological Precedents for Modular Cognition  
-    3.1 The Brain as a System of Systems  
-    3.2 The Linguistic Cortex in Biological Context 
-    3.3 World Models and Predictive Processing  
-    3.4 Memory, Reward, and Planning in the Biological Brain  
-4. The Proposed Architecture: A Modular AGI Framework  
-    4.1 Overview  
-    4.2 The Language Module  
-    4.3 The World Model Module  
-    4.4 The Memory Module  
-    4.5 The Planning and Reward Modules  
-    4.6 Perception and Action Modules  
-5. The Digital Corpus Callosum: Integration and Coherence  
-    5.1 The Biological Precedent  
-    5.2 The Digital Corpus Callosum as Integration Fabric  
-    5.3 Architectural Implementation  
-6. The Minimal Viable AGI: Implementation Pathway  
-    6.1 Defining the Minimal Configuration  
-    6.2 Justification for the Minimal Set  
-    6.3 Scaling Beyond the MVAGI  
-7. Meta-Cognition, Homeostasis, and Developmental Engines  
-    7.1 Meta-Cognition: Thinking About Thinking  
-    7.2 Homeostatic Regulation: Stability Through Self-Regulation  
-    7.3 Developmental Engines: Growing Intelligence Over Time  
-8. Implications, Limitations, and Future Directions  
-    8.1 Implications for AGI Research  
-    8.2 Comparison with Existing Proposals  
-    8.3 Limitations and Open Questions  
-    8.4 Future Directions  
-9. Conclusion  
 
 ---
 
