@@ -13,13 +13,13 @@
 
 William Murray  
 Research Architect  
-16 August 2026  
+17 August 2026  
 
 **Status**: Stable        
 
-**Scope**: This registry contains a record of all digital assets within this repository.    
+**Scope**: This registry contains a record of all digital assets within the `Foundations' repository.    
 
-**Primary Model / Scheme**: `2026-0001-D-tmp-001` 
+**Primary Model / Scheme**: [2026-0001-D-tmp-001](https://github.com/WilliamMurray-research/2026-0001-D/blob/main/docs/tmp/001.md) 
 
 ---
 
