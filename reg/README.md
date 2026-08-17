@@ -8,7 +8,7 @@
 # Foundations Asset Registry
 ### Governance  
 
-**Type**: reg   
+**Type**: Asset Registry    
 **Version**: 1.0       
 
 William Murray  
