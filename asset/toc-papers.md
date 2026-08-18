@@ -96,6 +96,20 @@ This paper synthesises two domain-specific languages (DSLs) developed within a u
 
 This paper introduces the latency–accuracy exchange principle: the idea that time is a resource deliberately invested to purchase correctness, determinism, and governance fidelity. Drawing on complexity theory, verification, distributed systems, and safety critical engineering, it argues that many systems should invert the industry’s speed first bias. The principle provides a formal lens for designing systems where correctness is paramount, demonstrating its application across databases, compilers, APIs, distributed consensus, and testing architectures.
 
+A Three‑Paper Summary (Redrafted, Clean, No Links, No Images)
+
+#### [A National Framework for Nature‑Based Solutions in Bangladesh]
+
+18 August 2026
+
+This paper lays out a full national strategy for using Nature‑Based Solutions (NbS) to reduce Bangladesh’s hydrological losses—flooding, erosion, salinity intrusion, and drought—while strengthening agriculture, banking, insurance, and GDP. It argues that NbS are net‑positive investments, deliver high ROI, and can be implemented cheaply through community governance structures. The paper provides a 25‑year phased plan, defines institutional preconditions, and establishes a monitoring system with baselines, indicators, and policy‑revision triggers. It positions NbS as a central pillar of Bangladesh’s climate‑resilience and economic‑development strategy.
+
+#### [A National Digital‑Twin Architecture for NbS in Bangladesh]
+
+18 August 2026 
+
+This paper builds the operational system needed to run NbS at national scale: a continuously updated digital twin integrating satellite telemetry, hydrological models, ecological baselines, agricultural indicators, financial‑risk metrics, and community reporting. It defines a two‑layer architecture—digital and real‑world—where communities validate and correct satellite‑derived data and execute interventions. The Satellite‑Enabled Agricultural Risk Engine (SARE) supplies high‑frequency risk indices that feed directly into the RL optimisation environment. The digital twin creates a closed feedback loop between landscape change and national planning, enabling adaptive management, transparent monitoring, and integration with banking and insurance systems.
+
 #### [Prototyping as an Epistemic Taxonomy in Software Systems](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/018.md)
 
 26 July 2026
@@ -107,6 +121,12 @@ This article argues that prototyping in software engineering is not a single exp
 10 August 2026
 
 I develop interdisciplinary frameworks that integrate restoration ecology, machine learning, and landscape topology to address the structural challenges posed by road‑driven forest fragmentation. My recent work focuses on reinforcement learning – optimised Miyawaki corridor design, combining ecological succession models, microclimate dynamics, and graph‑theoretic connectivity metrics to produce spatially efficient restoration strategies. This research aims to enhance landscape permeability, accelerate ecological recovery, and provide practitioners with robust, data‑driven tools for reconnecting degraded habitats.
+
+#### [Reconnecting the Delta: RL‑Optimised Corridor Planning for Hydrological NbS]
+
+18 August 2026
+
+This paper addresses the major gap in the NbS framework: spatial optimisation. It adapts a reinforcement‑learning system originally built for ecological corridor restoration and repurposes it for hydrological connectivity in Bangladesh. The core contribution is HydroECA—a hydrological equivalent of ecological connected area—and a multi‑channel state tensor capturing soil permeability, floodplain connectivity, embankments, slope, discharge, salinity, sediment, vegetation, and governance feasibility. It introduces the Governance Feasibility Index, a dynamic measure of political and community implementability. The paper outlines how RL can determine optimal placement and sequencing of NbS interventions and provides a phased research agenda for building and validating the system.
 
 #### [Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/020.md)
 
