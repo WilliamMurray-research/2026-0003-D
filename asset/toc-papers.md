@@ -96,15 +96,13 @@ This paper synthesises two domain-specific languages (DSLs) developed within a u
 
 This paper introduces the latency–accuracy exchange principle: the idea that time is a resource deliberately invested to purchase correctness, determinism, and governance fidelity. Drawing on complexity theory, verification, distributed systems, and safety critical engineering, it argues that many systems should invert the industry’s speed first bias. The principle provides a formal lens for designing systems where correctness is paramount, demonstrating its application across databases, compilers, APIs, distributed consensus, and testing architectures.
 
-A Three‑Paper Summary (Redrafted, Clean, No Links, No Images)
-
-#### [A National Framework for Nature‑Based Solutions in Bangladesh]
+#### [A National Framework for Nature‑Based Solutions in Bangladesh - 1 of 3](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/031.md)
 
 18 August 2026
 
 This paper lays out a full national strategy for using Nature‑Based Solutions (NbS) to reduce Bangladesh’s hydrological losses—flooding, erosion, salinity intrusion, and drought—while strengthening agriculture, banking, insurance, and GDP. It argues that NbS are net‑positive investments, deliver high ROI, and can be implemented cheaply through community governance structures. The paper provides a 25‑year phased plan, defines institutional preconditions, and establishes a monitoring system with baselines, indicators, and policy‑revision triggers. It positions NbS as a central pillar of Bangladesh’s climate‑resilience and economic‑development strategy.
 
-#### [A National Digital‑Twin Architecture for NbS in Bangladesh]
+#### [A National Digital‑Twin Architecture for NbS in Bangladesh - 3 of 3](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/033.md)
 
 18 August 2026 
 
@@ -122,7 +120,7 @@ This article argues that prototyping in software engineering is not a single exp
 
 I develop interdisciplinary frameworks that integrate restoration ecology, machine learning, and landscape topology to address the structural challenges posed by road‑driven forest fragmentation. My recent work focuses on reinforcement learning – optimised Miyawaki corridor design, combining ecological succession models, microclimate dynamics, and graph‑theoretic connectivity metrics to produce spatially efficient restoration strategies. This research aims to enhance landscape permeability, accelerate ecological recovery, and provide practitioners with robust, data‑driven tools for reconnecting degraded habitats.
 
-#### [Reconnecting the Delta: RL‑Optimised Corridor Planning for Hydrological NbS]
+#### [Reconnecting the Delta: RL‑Optimised Corridor Planning for Hydrological NbS - 2 of 3](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/032.md)
 
 18 August 2026
 
