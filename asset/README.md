@@ -1,3 +1,27 @@
+`2026-0001-D-tmp-002.md`  
+
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-0001-D-tmp-002`  
+# Papers Table of Contentss
+### Governance  
+
+**Version**: 1.0       
+
+William Murray  
+Research Architect  
+18 August 2026  
+
+**Status**: Stable        
+
+**Scope**: This registry contains a Table of Contents, linked to all common papers within the research ecosystem.      
+
+**Primary Model / Scheme**: [2026-0001-D-tmp-002](https://github.com/WilliamMurray-research/2026-0001-D/blob/main/docs/tmp/002.md) 
+
+---
+
 #### [The Architecture of Plausibility: Reconceptualising Large Language Models Beyond the Knowledge Base Paradigm](https://github.com/WilliamMurray-research/foundations/blob/main/ppr/002.md)
 
 19 May 2026
