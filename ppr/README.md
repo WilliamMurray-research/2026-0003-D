@@ -4,7 +4,7 @@
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-0003-D-reg-001`  
+**Document Reference**: `2026-0003-D-reg-000`  
 # Foundations Asset Registry
 ### Governance  
 
