@@ -1,10 +1,10 @@
-`2026-0003-D-toc-001.md`  
+`2026-0003-D/toc/README.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-0003-D-toc-001`  
+**Document Reference**: `2026-0003-D-toc-000`  
 # Papers Table of Contents  
 ### Governance  
 
