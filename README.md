@@ -1,11 +1,11 @@
-`2026-0003-D-read-001.md`  
+`2026-0003-D/README.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-0003-D-read-001`  
-# Foundations  
+**Document Reference**: `2026-0003-D-read-000`  
+# Papers & Math    
 ### Governance   
 
 **Type**: read    
